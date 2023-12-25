@@ -15,3 +15,4 @@ __pycache__/
 
 # Database stuff
 *.sqlite3
+migrations/

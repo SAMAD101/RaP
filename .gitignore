@@ -1,0 +1,15 @@
+# Pycharm stuff
+.idea
+
+# Virtualenv
+.venv
+.env
+venv
+env
+
+# VS Code stuff
+.vscode
+
+# Python stuff
+*.pyc
+__pycache__
